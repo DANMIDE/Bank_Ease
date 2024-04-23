@@ -100,7 +100,7 @@ if st.button('Confirm Your Eligibility'):
         st.image('denied.png', width = 300)
     else:
         st.success(f"Congratulations... You are eligible to open and have a bank account. Please proceed to any of our offices to open an account")
-        st.image('approved 2.png', width = 300)
+        st.image('pngwing.com (23).png', width = 300)
         st.balloons()
 
 
